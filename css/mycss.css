@@ -144,3 +144,77 @@ h4{
     }
 
 }
+
+.textsuper
+{
+    text-align: justify;
+    font-family: Bai Jamjuree;
+    margin-top: -1%;
+     width: 50%;
+    margin: auto;  
+    font-size: 18px;
+    
+}
+.contain
+{
+    width: 98%;
+    height: 20%;
+    margin-left: 1%;
+
+}
+.logoblack
+{
+    height: 100%;
+    margin-left: 30%;
+}
+.createBlacklist
+{
+    width: 14%;
+    height: 50%;
+    font-size: 18px;
+    font-family: Bai Jamjuree;
+}
+.plaintext
+{
+    width: 30%;
+    height: 80%;
+    margin-left: 30%;
+    margin-top: -5%;
+    font-size: 18px;
+  position: static;
+  font-family: Bai Jamjuree;
+}
+.sneakpreview
+{
+    margin-top: -8%;
+    margin-left: 60%;
+    font-family: Bai Jamjuree;
+    font-size: 18px;
+
+}
+.google
+{
+    float: left;
+    margin-left: 6%;
+}
+.ibm
+{
+    float: left;
+    margin-left: 8%;
+}
+.microsoft
+{
+    float: left;
+    margin-left: 8%;
+}
+.hp
+{
+    float: left;
+    margin-left: 8%;
+}
+.vector
+{
+    float: left;
+    margin-left: 8%;
+
+}
